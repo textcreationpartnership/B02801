@@ -1,0 +1,526 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sermon prêché dans l'eglise francoise de la Savoye, le 28me de Novemb. 1675. Jour de l'abjuration de dues persones de l'eglise romaine. / Par Richard du Maresq ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 74 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02801</idno>
+            <idno type="STC">Wing D2519A</idno>
+            <idno type="STC">ESTC R174772</idno>
+            <idno type="EEBO-CITATION">51784505</idno>
+            <idno type="OCLC">ocm 51784505</idno>
+            <idno type="VID">174917</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02801)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174917)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2705:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sermon prêché dans l'eglise francoise de la Savoye, le 28me de Novemb. 1675. Jour de l'abjuration de dues persones de l'eglise romaine. / Par Richard du Maresq ...</title>
+               </titleStmt>
+               <extent>[8], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprimé par J.M. pour Moyse Pitt ...,</publisher>
+                  <pubPlace>Londres, :</pubPlace>
+                  <date>MDCLXXV. [1675]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fre">fre</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, French --  England --  17th century --  Early works to 1800.</term>
+               <term>Fast-day sermons --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="fre">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174917:1" rendition="simple:additions"/>
+            <p>SERMON Prêché dans <hi>L'Egliſe Francoiſe de la Savoye, le</hi> 28<hi rend="sup">me</hi> 
+               <hi>de Novemb.</hi> 1675.</p>
+            <p>
+               <hi>Jour de l'Abjuration de deus perſones de l'Egliſe Romaine.</hi>
+            </p>
+            <p>Par <hi>Richard du Mareſq,</hi> Miniſtre du S. Evangile dans la dite Egliſe.</p>
+            <q>
+               <p>
+                  <hi>Vous les conoïtrez à leurs fruits.</hi>
+               </p> 
+               <bibl>Math. 7.</bibl>
+            </q>
+            <p>
+               <hi>A LONDRES,</hi> Imprimé par J. M. pour Moyſe Pitt à l'Enſeigne de l'Ange, dans le Cemetiere de S. Paul. M DC LXXV.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:174917:2"/>
+            <p>Imprimatur</p>
+            <p>Concio haec (in com. 10. cap. 2. Apocal.)</p>
+            <closer>
+               <dateline>
+                  <date>Decemb. 13. 1675.</date>
+               </dateline>
+               <signed>Reverend<hi rend="sup">mo</hi> D<hi rend="sup">no</hi> Ar<g ref="char:EOLhyphen"/>chiepiſcopo Cant. à Sacris Domeſticis Geo. Hooper.</signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:174917:2"/>
+            <head>PREFACE.</head>
+            <p>IL nous vient ſi ſouvent des Moines de tous les Ordres dans le deſſein d'em<g ref="char:EOLhyphen"/>braſſer nôtre Religion, &amp; il s'en tronve ſi peu d'honêtes entre plu<g ref="char:EOLhyphen"/>ſieurs qui ne le ſont pas, que nous avons tout ſujet de nous d'efier des uns, &amp; des autres. Nous n'avons que trop de preuves pour établir cette défiance, &amp; les exemples que nous avons du paſſé, &amp; ſous nos yeus, nous metent plus qu'en poſſeſſion du droit de l'authorizer pour l'avenir. Je ne prétens pas renfermer dans, cette génêralité ceus qui ſe ſont unis à nous dans le deſſein de faire leur ſalut, &amp; qui depuis long tems ont fait pa<g ref="char:EOLhyphen"/>roìtre par une vie ſans reproche la ſince<g ref="char:EOLhyphen"/>rité de leur converſion. J'en veus à ces
+<pb facs="tcp:174917:3"/> libertins qui n'abjurent les Erreurs de Rome que pour acomplir les convoitiſes de la chair; qui ne font banqueroute à leurs voeus, que pour s'abandoner aus vices; &amp; qui apres avoir ſcandalizé les ſidéles par l'impureté de leurs moeurs, s'en retournent d'où ils ſont venus. Et le nombre de ces Hypocrites eſt ſi grand, que de plus de trente qui depuis ſept ans ont paru dans l'une &amp; dans l'autre Egliſe, en poſture d'abjurateus des Erreurs de Rome, à peine s'en trouve-t-il ſix qui ſoient reſtés parmi nous. Je ſcay bien que nous devons avoir du zéle pour la propagation de la foy, &amp; que ce nous doit étre un grand ſu<g ref="char:EOLhyphen"/>jet de joye, quand nous voyons que la Provi<g ref="char:EOLhyphen"/>dence apéle des hommes, du fonds des ténê<g ref="char:EOLhyphen"/>bres, à la lumiere<g ref="char:punc">▪</g> de l'Evangile; mais il faut que nôtre zéïe ſoit evangelique, point aveugle ni indiſcret, mais plutôt acompagné de conoiſſance capable de diſcerner, s'il eſt poſ<g ref="char:EOLhyphen"/>ſible, l'yvroye d'avec le bon grain, l'or d'avec le clinquant, le fourbe d'avec le ſincére, l'hypocri<g ref="char:EOLhyphen"/>te d'avec le fidéle, autrement ſi nous donons tête baiſſée dans tout ce qui ſe preſénte à nous, ſans le péſer à la balance du ſanctuaire, nous expoſons nôtre reputation, nous donons juſte
+<pb facs="tcp:174917:3"/> ſujet à nos adverſaires de nous accuſer d'éter avides de proſélytes à quelque prix que ce ſoit; mais ce qui eſt de plus criant, nous proſtituons nos chaires, &amp; la bourſe de nos povres, à des impoſteurs &amp; à des ſang<g ref="char:EOLhyphen"/>ſües, qui n'ont pour but que de ſaire de l'une le teatre de leur vanité, &amp; de l'autre un revenu ſeur, pour fournir à leur libertinage. Il s'eſt paſſê depuis peu de tems des choſes qui ont doné lieu à toutes ces reflexions, je ne ſuis pas le ſeul à qui elles ayent été un ample ſujet d'aplication; &amp; c'eſt aus plaintes de pluſieurs perſones doüées de bon ſens, &amp; de probité, qu'on eſt redevable de ce diſ<g ref="char:EOLhyphen"/>cours icy &amp; du Sermon qui le ſuit. On a veu pareître dans nos Aſſemblées, &amp; dans la Chaire de verité, un homme d'ont la conduite nous a été tres long tems un pro<g ref="char:EOLhyphen"/>fond myſtére, nous l'avons veu ſous divers noms, &amp; ce n'eſt que depuis peu qu'on eſt informé, fort malgré luy, qu'il doit l'être, &amp; la lumiere à la ſçene &amp; au Teatre. Sa Recidive dans le bourbier a éclaté aus yeus de tout un monde: par un reſſort plus qu'ad<g ref="char:EOLhyphen"/>mirable; il a denoüé des intrigues qui a<g ref="char:EOLhyphen"/>voient été long tems cachées, &amp; comme un
+<pb facs="tcp:174917:4"/> Dieu de Machine, il a developé des ſecrets impénetrables à la raiſon humaine; mais l'incident le plus étrange à ma fantaiſie, eſt que ſa chûte, a produit ſon élévation, &amp; que ce qui devoit le rendre odieus à tout le monde, eſt cela même qui luy acquiert &amp; l'eſtime &amp; la reputation de la part de pluſieurs. <g ref="char:V">Ʋ</g>n petit acte de contrition, quelques larmes reſ<g ref="char:EOLhyphen"/>pandües à propos, quel ques gemiſſemens étudiez l'ont par une vertu miraculeuſe ſanctifié dans l'eſprit de quantité de gens. Mais ceci ne conclut pas la piéce, pour marquer les pro<g ref="char:EOLhyphen"/>fondes lumiéres, qui ont été la cauſe de ſon changement; Peu de tems aprés la recantation de la retractation, dans une entretien qu'il eut avec un homme auſſi éclairé, &amp; auſſi ſin<g ref="char:EOLhyphen"/>cére qu'il en vienne de la part des Romains. Il diſoit <hi>que la Confeſſion auriculaire man<g ref="char:EOLhyphen"/>quoit</hi> 
+               <note place="margin">Mr. Vic<g ref="char:EOLhyphen"/>vard.</note> 
+               <hi>à l'Egliſe d'Angleterre pour la rendre accomplie:</hi> ſur quoy cet bonête homme luy ayant répondu qu'elle y étoit établie ſelon les lois de l'Evangile, &amp; que tous les jours les Miniſtres donoient l'abſolution des pechés à ceus qui étoient vrayement repentans, il ré<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndit <hi>qu'une telle Abſolution ne valoit ri<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, paree que les Miniſtres qui la do<g ref="char:EOLhyphen"/>noient,
+<pb facs="tcp:174917:4"/> n'avoient ni caractére, ni pouvoir.</hi> Voila les ſ<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>imens de nôtre fameus Proſé<g ref="char:EOLhyphen"/>lyte. A la verité, quand il fit ſa prémiere re<g ref="char:EOLhyphen"/>tractation, c'étoit par la <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rainte de la mort, a cé qu'il dit; mais quand il fit celle-cy, qui eſt une partie de celle qu'il prétend luy avoir été extorquée, perſone ne l'y forçoit, comme elle n'a pas tant d'élat que l'autre, auſſi ne luy a-t-elle pas acquis tant de crédit, &amp; c'eſt pour luy faire plaiſir que j'ay trouvé bon d'en faire part aus Lecteurs. Je n'inſiſteray point ſur le party qu'il a pris de mentir à tous propos, de<g ref="char:EOLhyphen"/>puis que nous le conoiſſons, ni ſur bien d'au<g ref="char:EOLhyphen"/>tres choſes que le papier ne pouroit ſoufrir ſans rougir. Il m'arriva de d'éſapprouver la palinodie de cet homme, &amp; de la traiter plu<g ref="char:EOLhyphen"/>tôt d'Apoſtaſie que de Martyre, bien des gens ſoit par ignorance, ſoit par un faus zéle ſe ſont ingerés de m'en blàmer, les clabauderies des uns &amp; des autres, me portérent à pronon<g ref="char:EOLhyphen"/>cer le Sermon ſuivant; mais au lieu d'en re<g ref="char:EOLhyphen"/>cueillir le fruit que je m'étois propoſé, plu<g ref="char:EOLhyphen"/>ſieurs l'ont fait paſſer pour une ſanglante in<g ref="char:EOLhyphen"/>vective, au lieu d'en fair leur profit: il y a même des gens d'honeur qui ſont imbus de ce ſentiment, c'eſt pour me juſtifier dans l'eſprit
+<pb facs="tcp:174917:5"/> de tous, que je l'expoſe au public, ſans cette ne<g ref="char:EOLhyphen"/>ceſſité il ſeroit demeuré dans l'obſcurite de mon cabinet, &amp; j'avois d'aſſez grandes rai<g ref="char:EOLhyphen"/>ſons pour l'y laiſſer, ſi je n'avois conſideré qu'il s'agiſſoit ici &amp; de la gloire de Dieu, &amp; de l'edification du Prochain.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:174917:5"/>
+            <epigraph>
+               <bibl>Apoc. 2. Verſ. 10.</bibl>
+               <q>
+                  <hi>So is fidéle juſques à la mort, &amp; je te donneray la Couronne de vie.</hi>
+               </q>
+            </epigraph>
+            <p>NOus aprenons de l'hiſtorie, que les Anciens Ro<g ref="char:EOLhyphen"/>mains, avoient étably parmy eus des récom<g ref="char:EOLhyphen"/>penſes pour les actions de vertu, de generoſité, &amp; de valeur: ainſi celuy d'entr-eus qui au jour de la bataille avoit mis à mort cinq ou ſix mille des ennemis de la Republique, ou qui avoit remporté quelque grande, &amp; quelque ſignalée victoire, recevoit les honneurs du Tri<g ref="char:EOLhyphen"/>omphe (ſpectacle ſi pompeus &amp; ſi magnifique, que S. Au<g ref="char:EOLhyphen"/>guſtin en a mis la veüe au nombre des ſes plus chers ſou<g ref="char:EOLhyphen"/>haits.) Selon cette même ordonnance, celuy qui avoit mon<g ref="char:EOLhyphen"/>té le prémier à la breche; ou qui avoit ſauvé la vie à quel<g ref="char:EOLhyphen"/>que Citoyen Romain, obtenoit une Courône. Je ne doute point que cét ordre, fait avec tant de juſtice &amp; de prudence, ne fut une des plus conſiderables cauſes de la puiſſance, &amp; de la grandeur de cette redoutable Nation: Car il eſt cer<g ref="char:EOLhyphen"/>tain que l'interêt eſt le plus puiſſant motif, qui fait agir les hommes, &amp; que par conſéquent, pour les porter à quelque choſe de grand &amp; d'auguſte, il faut les animer par la douceur, &amp; par la force de l'eſpérance de quélque glorieus avantage, c'eſt ce qui a fait dire à quel-qu'un, que l'eſpe<g ref="char:EOLhyphen"/>rance nourit le ſoldat.</p>
+            <p>Jeſus Chriſt le Chef &amp; le Conſommateur de nôtre foy,
+<pb n="2" facs="tcp:174917:6"/> tient à peu piês la même métode dans ſon Evangile cn<g ref="char:EOLhyphen"/>vers les hommes, connoiſſant que naturellement ils ſont in<g ref="char:EOLhyphen"/>tereſſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>z, &amp; qu'ils regardent la récompenſe, il ne les en<g ref="char:EOLhyphen"/>gage à ſon divin ſervice que ſous la veüe d'un poids éter<g ref="char:EOLhyphen"/>nel d'une gloire excélament excélante. Demande-t-il qu'ils ſe dépoüillent de toute vanité, &amp; de toute preſomption charnele, en un mot qu'ils deviennent des <hi>Povres en<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſprit?</hi> 
+               <note place="margin">Mat. 5. 3.</note> il les aſſeure que le Royaume des Cieus eſt à eus. Les exhorte-t-il à être nets de coeur, à ſe purifier de toute ſouillure de chair &amp; d'eſprit? il leur prom<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t qu'ils verront <note place="margin">Mat. 5. 8.</note> Dieu, qu'ils contempleront dans la gloire éternele, cette adorable Majeſté, en la préſence de laquelle il ya des plai<g ref="char:EOLhyphen"/>ſirs, &amp; des raſſaſiements de joye pour jamais. Deſire-t-il qu'ils combatent pour ſa cauſe? il leur declare que s'ils triomfent, il les fera aſſoir avec luy ſur ſon trône. Veut<g ref="char:EOLhyphen"/>il <note place="margin">Apoc. 3. 21.</note> enfin qu'ils luy ſoient fidéles juſques à la mort? il leur montre une Couronne inflétriſſable de gloire, qu'il tient en ſes mains, &amp; qu'il eſt prêt à poſer ſur leur tête triomphante. Ecoutez l'aſſurance que ce divin Sauveur nous en donne luy même par la plume de S. Jean dans les paroles de mon Texte. Et c'eſt de cette inviolable fidelité que<g ref="char:punc">▪</g> Jeſus Chriſt demande de tous ſes enfans, &amp; de la glorieuſe récompenſe qu'il leur promet, dont j'ay deſſein de vous entretenir aujourduy.</p>
+            <p>Cette matiere eſt extrémement, propre pour la circon<g ref="char:EOLhyphen"/>ſtance de ce jour, &amp; pour celle du tems où nous ſom<g ref="char:EOLhyphen"/>mes. Je dis pour celle du jour: Car voicy devant vous deus perſonnes qui y ſont venües, pour prêter le Serment de fidelité à Jeſus Chriſt, &amp; que puis-je faire de plus à propos à preſent, que de leur repreſenter qu'elle eſt la na<g ref="char:EOLhyphen"/>ture de cette fidelité à laquelle ils s'engagent, &amp; juſques où ils la doivent porter; Et en même tems, de leur montrer qu'elle eſt l'honneur &amp; la gloire d'ont elle doit être un jour Courounée dans les Cieus: Mais ſice ſujet eſt propre pour la circonſtance du jour, il ne l'eſt pas moins pour celle du tems: Car helas! nous vivons dans un ſiécle mal-heureus, où pluſi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urs Chrétiens font de la Religion un manteau, que l'on peut prendre, &amp; quiter ſelon les pais &amp; les occaſi<g ref="char:EOLhyphen"/>ons
+<pb n="3" facs="tcp:174917:6"/> où ils ſe rencontrent Combien yen à-t-il qui croyent, que la crainte, ou les menaces de la mott, ſont des raiſons plus que ſufilantes pour abjurer nôtre ſainte Religion, &amp; qui regardent comme un éfet de folie, ou de rage, cette noble ardeur, &amp; cette conſtance invincible, avec laquelle cette grande nuée de <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>émoins &amp; de fidéles martyrs, qui environ<g ref="char:EOLhyphen"/>nent l'Egliſe de toutes parts, ont ſoufert la mort la plus honteuſe, &amp; la plus cruelle. Les beaus jours, le calme &amp; la proſperité dont Dieu nous favoriſe, font croire à quanti<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>é de gens, qu'ils ne doivent ſe tenir avec J. C. que pendant qu'il les conſerve dans ce tranquile, &amp; dans cet heureus état. Mal-heureuſe &amp; maudite maxime, qui détruit la force &amp; Pexcellence du ſervice, &amp; de l'amour divin, qui ſape &amp; renverſe les ſondemens de la Religion, &amp; qui enſeigne à nos ennemis un moyen bien court, &amp; bien ſeur de nous per<g ref="char:EOLhyphen"/>dre, dans les lieus cù ils ont le pouvoir &amp; la ſorce en main. Lâche &amp; deteſtable ſentiment, que chaque fidéle Miniſtre de Jeſus, doit tâcher d'ôter de l'eſprit &amp; du coeur des hommes, à moins que de vouloir encourir le blâme d'un infidéle Diſpenſateur.</p>
+            <p>De peur que je ne ſois mis au nombre de ces malheureus en cette grande &amp; redoutable journée en la quelle Jeſus Chriſt jugeant les ſecrets &amp; les actions des hommes par l'Evangile, m'appellera à rendre conte du Miniſtére qui m'a êté commis, je feray auiourduy mes foibles éforts pour déraciner cette pérnicieuſe croyance du coeur de ceus cù elle peut être, &amp; qui m'ecoutent à preſent, &amp; je les feray ſans craindre ni la colére, ni les fougues, ni les emportemens, ni les coups de langue de qui que ce ſoit; Car graces à Dieu, rien ne m'épouvante, pendant que je defens la cauſe, &amp; les intérêts de mon divin Mâitre, &amp; que je rends témoignage à ſon Evangile; ſon genereus Apôtre S. Paul m'aprend que Je<g ref="char:EOLhyphen"/>ſus Chriſt n'a point doné à ſes Miniſtres, un eſprit de timi<g ref="char:EOLhyphen"/>dité, mais de force &amp; de ſens raſſis.</p>
+            <p>Pour m'aquiter donc d'un ſi ſaint, &amp; d'un ſi juſte de<g ref="char:EOLhyphen"/>voir, je n'ay qu'a expliquer les paroles de mon Texte; Et pour le faire avec ordre, je les diviſeray en trois parties.
+<pb n="4" facs="tcp:174917:7"/> Dans la prémiere, j'examineray en peu de mots, qu'elle eſt la fidélité que Dieu demande des Chrétiens. Dans la ſeconde, je conſidereray juſques où il veut qu'ils la portent, c'éſt juſ<g ref="char:EOLhyphen"/>ques à la mort; &amp; dans la troiſieme je vous feray voir, qu'elle eſt le prix, &amp; la récompenſe qu'il promet à ceus qui luy auront gardé cette fidélité, c'eſt qu'il leur donera la Couronne de vie.</p>
+            <div n="2" type="part">
+               <head>Premiére Partie.</head>
+               <p>Il n'y a point de doute que quand Jeſus Chriſt exhorte les Ch<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>étiens à luy être fidéles, il ne les conſidére comme des perſonnes qui ont fait un contract &amp; une alliance avec luy. En éfét c'eſt à quoy tous les hommes qui vivent ſous la diſpenſation de la grace ſe ſont engag<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>z. L'Evangile por<g ref="char:EOLhyphen"/>te le nom d'alliance, &amp; en le recevant, ils entrent dans un pact tres étroit avec ſon divin Auteur, &amp; en même tems auſſi ils prometent d'acomplir les clauſes, &amp; les conditions de cette alliance. Dieu de ſa part nous promet icy bas, ſa grace, ſa protection &amp; l'aſſiſtance de ſon ſaint Eſprit; &amp; la haut au Ciel, ſa gloire &amp; ſon Paradis: De nôtre côté nous nous engageons d'écouter ſa divine parole, d'obeïr à ſes ſaints comandemens, &amp; d'être fidéles à ſon ſervice tout le tems de nôtre vie. Et c'eſt ce me ſemble dans cette conſidération qu'on a doné aus deus ſeaus de cette alliance le nom de Sacremens; Car ce mot de Sacrement, eſt le même qui êtoit autrefois employé pour ſignifier le ſerment de fi<g ref="char:EOLhyphen"/>delité, que les Soldats Romains p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>êtoient à leur Généraus: Serment qui êtoit ſi ſacré, &amp; ſi inviolable parmy eus, qu'il n'y avoit rien que la mort ſeule qui pût le rompre; Ce qui convient trés bien à ce qui ſe paſſe entre Jeſus Chriſt, &amp; les fidéles ſous l'Evangile: Vous ſavez, mes Fréres, que ce di<g ref="char:EOLhyphen"/>vin Sauveur dans le Nouveau Teſtament, ne porte pas ſeule<g ref="char:EOLhyphen"/>ment les tîtres de Prophéte &amp; de Souverain Sacrificateur, mais qu'il eſt auſſi apelé nôtre Chef, nôtre Capitaine &amp; le Prince de nôtre ſalut. Dans nôtre Ba<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ême nous avous <note place="margin">Heb. 2. 10. &amp; 12. 2.</note> comencé à luy prêter ſolennellement le ſerment de fide<g ref="char:EOLhyphen"/>lité;
+<pb n="5" facs="tcp:174917:7"/> c'eſt alors que nous avons autentiquement promis de luy être fidéles, de combatre vaillamment ſous ſes en<g ref="char:EOLhyphen"/>ſeignes contre le monde, contre la chair &amp; contre Satan, &amp; de renoncer au Diable &amp; à ſes pômpes; Et ſi nous ne l'avons pas prononcé à haute vois, comme faiſoient autre<g ref="char:EOLhyphen"/>fois les Catecuménes de la Primitive Egliſe, quand on les bâtiſoit, on l'a promis pour nous, &amp; en nôtre nom. Et quand nous ſommes venus en âge de conoiſſance, &amp; de diſ<g ref="char:EOLhyphen"/>cretion, nous avons ratifié cette promeſſe, autrement nous ne ſommes pas de vrays Chrétiens. Ap<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ês avoir prêté ce ſerment dans nôtre batême, nous le renouvelons dans la ſainte Cêne, toutes les fois que nous y participons: Car ce pain, &amp; ce vin myſtique que nous y recevons, ſont autant de gages ſacrez &amp; d'aſſeurances, par leſquelles Jeſus Chriſt s'engage de ſa part envers nous, &amp; nous avec luy; Il nous aſſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ure qu'il nous veut rendre participans des fruits de ſa mort bénite, &amp; nous donner la vie &amp; l'immortalité qu'il nous a aquiſes par ſa paſſion ſanglante, &amp; qu'il met en evidence dans ſon Evangile, afin que par ces deus choſes immua<g ref="char:EOLhyphen"/>bles, ſa parole &amp; ſon ſacrement dans leſquelles il eſt im<g ref="char:EOLhyphen"/>poſſible que Dieu mente, nous ayons une ferme conſolation, nous qui avons nôtre refuge à obtenir l'<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſperance qui nous eſt proposée: De nôtre côté nous confirmons, &amp; nous ra<g ref="char:EOLhyphen"/>tifions alors le voeu que nous avions fait à nôtre entrée dans ſon ſervice &amp; dans ſon Egliſe, de le ſerviren ſainte<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>é, &amp; en juſtice tous les jours de nôtre vie: Comme donc Dieu de ſa part demeure fidéle, qu'il ne ſe peut renier ſoy même, auſſi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l nous demande de la nôtre que nous tenions les promeſſes de fidelité que nous luy avons faites, que nous ſoyons fermes &amp; conſtans dans la reſolution que nous avons priſe, de nous conſacrer à ſon ſervice, &amp; dans la foy que nous luy avons ju<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ée.</p>
+               <p>Mais pour comprendre mieus qu'elle eſt la nature de de cette fidelité, &amp; en quoy elle conſiſte; il faut ſcavoir qu'ell<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a trois parties principales. La foy, la confeſſion, &amp; les bonnes oeuvres. La foy dans le coeur, la confeſſion dans la bouche, &amp; les oeuvres dans les mains. De coeur
+<pb n="6" facs="tcp:174917:8"/> on croit à juſtice, de bouche on fait confeſſion à <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wodr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> &amp; les bonnes oeuvres ſont le chemin, qui condui<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>y<g ref="char:EOLhyphen"/>aume &amp; à la couronne, &amp; que Dieu a prep<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ées a fin q<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> nous y march<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ons. Il faut que ces trois choſes ſoi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt toûjours unies enſemble, Dieu les a jointes, que l'homme ne les <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>epare point. Sans la foy il eſt non ſeulement impoſſible dêtre fidélez, mais même d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ê<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re agréable à Dieu, &amp; vous ſavel, <note place="margin">Heb. 11. 6.</note> que c'eſt cette divine &amp; cette noble vertu qui purifie les coeurs, qui recoit &amp; qui embraſſe les grandes &amp; les p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>é<g ref="char:EOLhyphen"/>tieuſes promeſſes qui nous ſont faites dans l'Evangile. Mais il faut que cette fidelité que nous portons dans le coeur, ſe montre &amp; ſe faſſe parôitre au dehors par nos paroles &amp; par nos actions: qu'elle ſoit ſur nos lévres en con<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſſant le nom, &amp; la verité de nòtre divin Redempteur, toutes l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s fois que nous y ſommes appell<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>z, &amp; qu'il y va de l'in<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>é<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>é<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> de ſa gloire; Car ce même Jeſus qui nous aſſure que quiconque croira ſera ſauvé, &amp; qu'il confeſſera devant ſon Pére ceus qui l'auront confeſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>é devant les hommes, proteſte qu'il reniera devant ſon Pere &amp; devant ſes Anges ceus qui l'auront renié devant les hommes. Par conſé<g ref="char:EOLhyphen"/>quent il faut que le Chrétien, pour être fidéle à Dieu, ne prene point à honte ſon Evangile, qu'il le confeſſe devant les hommes, &amp; qu'il ſoit toûjours prê<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> à repondre, non ſeul<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ment avec douceur &amp; avec humilité, mais auſſi avec fermeté &amp; avec courage, à quiconque luy demande raiſon, de l'eſpérance qui eſt en luy. Car certes ſi dans le mon<g ref="char:EOLhyphen"/>de on mépriſe un ami froid; ſi un ſoldat, qui apres avoir ê<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>é en<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ôlé ſous un Capitaine, auquel il a promis fidelité, change de party ſelon ſa fantaiſie &amp; ſes intérets, eſt con<g ref="char:EOLhyphen"/>ſideré comme un infame déſerteur; aſſeurément que le Sau<g ref="char:EOLhyphen"/>veur du monde regarde come des lâches, &amp; des infidéles, ces miſerables Nicodémites, ces tiédes, qui changent leur foy &amp; leur confeſſion, ſelon les lieus, &amp; les occaſions où ils ſe trouvent; Et ſans doute qu'au dernier jour, lorſque ce magnifique Redempteur aparôitra dans les nües, apelant les Cieus &amp; la Terre d'une vois redoubtable depuis le ſo<g ref="char:EOLhyphen"/>leil couchant juſques au levant, &amp; diſant aſſemblés moy
+<pb n="7" facs="tcp:174917:8"/> mes ſaints qui ont fait alliance avec moy; les timides, &amp; les menteurs ſeront punis de perdition éternele par la face du Seigneur &amp; par la gloire de ſa force: qu'ils d'éguiſent, &amp; qu'ils extenuent à preſent leur faute, tant qu'ils vou<g ref="char:EOLhyphen"/>dront devant les hommes, leur châtiment au dernier jour ſera auſſi ſevére que celuy que Dieu déployera ſur les in<g ref="char:EOLhyphen"/>crédules, &amp; les exécrables, ſur les meurtriers, les empoi<g ref="char:EOLhyphen"/>ſoneurs, &amp; les Idolatres, ils ſeront tous mis au même rang par le Soverain Juge de l'Univers qui a deja prononcé le funéſte arrêt de leur condanation éternele, dans ſon Apocal. où il nous aſſeure que leur partage à tous ſera dans <note place="margin">Apoc. 21. 8.</note> l'étang de f<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u &amp; de ſoulfre, qui eſt la ſeconde mort.</p>
+               <p>Mais enfin ce n'eſt pas aſſez d'embraſſer ce divin Sei<g ref="char:EOLhyphen"/>gneur par la foy, de luy of<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rir des ſacrifices de loüanges, c'eſt à dire, le fruit des levres, qui confeſſent ſon nom, ſi nous ne luy ſommes ſidéles auſſi dans nos actions: Car <hi>ſi quelqu'un dit qu'il a la foy &amp; qu'il n'ait point les oeuvres,</hi> 
+                  <note place="margin">Jac. 2. 14.</note> 
+                  <hi>de quoy cela luy ſervira-t-il? la foy le pourra-t-elle ſauver?</hi>
+               </p>
+               <p>Certes toute cette conoiſſance que nous avons de Dieu, &amp; la foy au ſang de Jeſus Chriſt, ſi elle ne ſont accompa<g ref="char:EOLhyphen"/>gnées de la ſanctification, ne paſſent au ſentiment de S. Paul que pour une abnegation de la Divinité même. <note place="margin">Tite. 1. 16.</note>
+               </p>
+               <p>Voila quelle elle eſt en general la fidelité que Jeſus Chriſt demande de nous, voyons dans nôtre ſeconde par<g ref="char:EOLhyphen"/>tie juſques où il veut que nous la portions. <hi>Sois fidéle juſ<g ref="char:EOLhyphen"/>quà la mort,</hi> nous dit-t-il.</p>
+               <p>Ces paroles ont un double ſens: Car ou elles ſignifient, 1. Qu'il faut que nous perſeverions tout le cours de nôtre vie, &amp; juſqu'à l'heure de nôtre mort, dans la fidelité que nous avons jurée à Chriſt, 2. Elles marquent que nous devons luy être fideles juſques à ſouffrir la mort, même la plus violente, qui eſt le martyre, plutôt que d'ab<g ref="char:EOLhyphen"/>jurer ſa verité.</p>
+               <p>Jeſus Chriſt demande la premiere choſe de tous les Ch<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ê<g ref="char:EOLhyphen"/>tiens: Car ce glorieus ſalut qu'il leur fait eſperer, &amp; qu'il leur anonce, n'eſt ſondé que ſur des promeſſes conditio<g ref="char:EOLhyphen"/>nélles de conſtance &amp; de perſeverance, dans l'obeïſſance
+<pb n="8" facs="tcp:174917:9"/>
+                  <note place="margin">Mat. 24. 3.</note> qu'ils luy doivent, <hi>celuy qui aura perſeveré juſqu'à la fin, ce<g ref="char:EOLhyphen"/>luy-là ſer a ſauvé:</hi> Car il ne ſert de rien d'avoir bien com<g ref="char:EOLhyphen"/>mencé, ſi on ne finit de même. Le Chrétien qui abandonne ſon Sauveur, perd par cette action, la gloire de tous les ſervices qu'il peut luy avoir rendus auparavant. Si le juſte (dit Dieu luy même par la bouche de ſon Prophete Eze<g ref="char:EOLhyphen"/>chiel) <note place="margin">Ezeck. 18. 24.</note> 
+                  <hi>ſi le juſte ſe detourne de ſa juſtice, &amp; commet iniquité, vivra-t-il? toutes ſes juſtices qu'il a faites auparavant, ne luy ſeront point rementues, il mourra dans ſon peché qu'il a com<g ref="char:EOLhyphen"/>mis.</hi> Et il y a cette diference entre la perſeverance &amp; les autres vertus Chrêtiennes, que celles-cy nous diſpoſent &amp; nous metent en état d'obtenir la gloire éternelle; mais celle la l'obtient en éfet; elles courent, elles combatent toutes, dans la cariére &amp; dans la lice du ſalut, mais la per<g ref="char:EOLhyphen"/>ſeverance ſeule emporte le prix &amp; la couronne: la foy eſt une ſubſtance des choſes que nous eſpérons, &amp; une démon<g ref="char:EOLhyphen"/>ſtration des choſes que nous ne voyons point; l'Eſpé<g ref="char:EOLhyphen"/>rance eſt une ancre ferme &amp; aſſurée pour nôtre ame, &amp; qui pénétre juſques au dedans du voile où Jeſus eſt entré comme précurſeur pour nous: la charité &amp; la ſainteté nous changent &amp; nous transforment en l'image de la di<g ref="char:EOLhyphen"/>vinité; mais la perſéverance ſeule nous met en poſſeſſion de Dieu même, &amp; nous fait entrer en la joüiſſance de ces joyes etérnelles que nous croyons par la foy, que nous atendons par la patience, &amp; où nôtre coeur eſt déja placé par amour: <hi>Car nous ſommes faits participans de Chriſt, ſi</hi> 
+                  <note place="margin">Heb. 3. 6. 14.</note> 
+                  <hi>nous retenons ferme juſqu'à la fin le fondement de ce qui nous ſoutient, &amp; l'aſſeurance de la gloire de nôtre eſpèrance.</hi>
+               </p>
+               <p>La ſeconde choſe qui eſt compriſe dans les paroles de nôtre Texte, eſt que Jeſus Chriſt veut que nous luy ſoyons obeiſſans, &amp; fidéles, même juſqu'à endurer la mort, &amp; la mort la plus cruelle, plutôt que d'abandoner ſon ſervice; Et c'eſt particulierement de cette fidélité dont il s'agit dans ces paroles. L'état où étoit la perſonne à laquelle ce divin Sauveur adreſſe cette belle exhortation, le mon<g ref="char:EOLhyphen"/>tre aſſez clairement. Il parle à l'Arge de l'Egliſe de Smyrne, c'eſt a dire, à l'Evêque: cette Egliſe ſoffroit alors une vio<g ref="char:EOLhyphen"/>lente
+<pb n="9" facs="tcp:174917:9"/> perſecution, de la part des Juiſs, &amp; des Payens; Jeſus Chriſt contemplant du haut de ſon Ciel les maus, &amp; la perſecution où elle étoit expoſée, pour la conſoler, il l'avertit, qu'il ſait, &amp; qu'il conoit le déplorable état où elle eſt reduite, <hi>Je connois,</hi> luy dit-il, <hi>ton affliction.</hi> Mais en même tems, ce divin Chef de nôtre ſalut, prend ſoin de l'aver<g ref="char:EOLhyphen"/>tir des autres combats qu'elle avoit encore à ſoutenir, <hi>
+                     <g ref="char:V">Ʋ</g>oicy il aviendra que le Diable mettra quelques-uns de vous en priſon, afin que vous ſoyez éprouvez &amp; vous aurez une tribu<g ref="char:EOLhyphen"/>lation de dix jours.</hi> Cette prophécie fut accomplie peu de tems apres; Car ſous le gouvernement de <hi>Marcus Aurelius,</hi> apelé communément le <hi>Philoſophe,</hi> &amp; de <hi>Lucius Verus,</hi> ſon Col<g ref="char:EOLhyphen"/>légue, l'Egliſe de Smyrne ſoufrit une perſécution qui fut à la verité de peu de durée; mais auſſi trés rude &amp; trés-violente. Et comme dans ces occaſions, les ennemis de la verité, s'ataquent ordinairement plutôt aus chefs de l'E<g ref="char:EOLhyphen"/>gliſe qu'aus particuliers, (s'imaginant que le berger étant trapé, les brebis ſeront (parſes) auſſi prirent ils principale<g ref="char:EOLhyphen"/>ment ce bon, &amp; ce ſaint Evêque, pour l'object de leur cru<g ref="char:EOLhyphen"/>auté, &amp; de leur fureur. Ce ſaint perſonage, d'ont le nom étoit <hi>Polycarpe,</hi> avoit alors environ quatre-vint &amp; ſix ans; ſes amis eurent bien de la peine à l'obliger de ſe re<g ref="char:EOLhyphen"/>tuer dans un petit vilage, aſſez proche de la ville: ceus qu'on avoit envoyez pour le chercher, &amp; pour le prendre, <note place="margin">Euſebe.</note> le trouvérent bien tòt. L'hiſtoire raporte que peu de tems apres qu'on ſe fut ſaiſi de ſa perſonne, il vid en ſonge une grande flame qui s'atachoit au lit où il étoit couché, laquélle en peu de tems le reduiſoit en cendres, ce qui luy fit croire que Dieu l'avertiſſoit par là, que ſon corps ſcroit bien tôt conſumé par le ſeu. Ce bon viesillard fut amené devant le Proconſul, qui fit tout ſon poſſible pour l'obliger à renier la foy de Jeſus, &amp; à outrager ſon ſaint nom; à quoy Polycarpe répondit, <hi>Il y à plus de 80 ans que je le ſers, &amp; il ne m'a jamais fait que du bien, comment pour<g ref="char:EOLhyphen"/>rois-je l'outrager, ou dire mal de luy?</hi> Le Proconſul le preſſant extremement, ne luy demandoit autre choſe ſinon qu'il jurát par la fortune de Ceſar: le ſaint Evêque, pour<g ref="char:EOLhyphen"/>toute
+<pb n="10" facs="tcp:174917:10"/> réponce luy dit, <hi>Je ſuis Chrétien.</hi> Le Proconſul, ir<g ref="char:EOLhyphen"/>rité de ſa ir<g ref="char:EOLhyphen"/>rité de ſa fermeté, luy dit, qu'il avoit les bêtes toutes prê<g ref="char:EOLhyphen"/>tes à le dechirer: <hi>fais les venir,</hi> repondit courageuſement Polycarpe, je les attends. Le Juge voyant qu'il ne pouvoit l'éfrayer par la crainte des bêtes, le menace du feu; Mais le venérable vieillard encore plus inébranlable, luy repon<g ref="char:EOLhyphen"/>dit, <hi>Tu me menace du feu qui ne dure qu'un moment; mais il y à le feu terrible du jugement que tu ignores, &amp; qui eſt reſervé aus orgueilleus, &amp; aus Infidéles, qu' attends tu? fais les venir ces bêtes, allume ces feus?</hi> Le Proconſul voyant qu'il ne pouvoit l'ébranler, comanda que le corps de ce ſaint home, fut brulé tout vif: Ma<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s le feu, cet elément tout aveugle qu'il eſt, dans ſon activité devorante, come s'il eut reſpecté le corps de ce bien-heureus Martyr, &amp; qu'il n'eut oſé en en aprocher, ſe ſendit en ondes autour de luy, &amp; les flames parurent comme le voile d'un navire enflé par le vent: de ſorte qu'aus yeus des ſpectateurs, ce bon Evêque paroiſſoit au milieu d'elles come de l'or qu'on ra<g ref="char:EOLhyphen"/>fine: ſes ennemis voyant que ſon corps n'étoit point en<g ref="char:EOLhyphen"/>domagé par le feu, ils comandérent au boureau de le per<g ref="char:EOLhyphen"/>cer d'une épée: ce qui ayant été executé, il en ſortit une ſi grande abondance de ſang, que le feu en fut entiere<g ref="char:EOLhyphen"/>ment éteint.</p>
+               <p>C'étoit done au milieu de ces ſoufrances, que Jeſus le Chef de nôtre ſalut, conſideroit ce généreus Atléte, quand il luy adreſſe cette exhortation, il l'anime par ſa vois, &amp; par ſes promeſſes, &amp; luy crie du haut des Cieus, aye bon courage Polycarpe, ſois moy fidéle même juſques à ſoufrir la mort du martyre, &amp; je couroneray ta fidelité d'une joye, d'une gloire, &amp; d'une felicité eternéle.</p>
+               <p>Mais ce que ce divin Seigneur dit à ce ſaint home, il le dit ſans doute en ſa perſone, non ſeulement à tous le mem<g ref="char:EOLhyphen"/>bres de l'Egliſe de Smyrne; mais auſſi à tous le mem<g ref="char:EOLhyphen"/>bres de l'Egliſe de Smyrne; mais auſſi à tous les Paſteurs, &amp; à tous les fidéles de l'Evangile; Car bien que pluſieurs d'entr'eus ſoient dans des lieus, dans des conditions, &amp; dans des tems bien diférens, cependant il faut qu'ils re<g ref="char:EOLhyphen"/>gardent tous, les exhortations que Dieu faiſoit autrefois
+<pb n="11" facs="tcp:174917:10"/> aus Chrétiens, come adreſſées à eus-mêmes, quand ils ſe trouvent dans de ſemblables occaſions: car <hi>tout ce qui a été écrit, a été écrit pour nôtre inſtruction.</hi> Ces paroles done, <hi>ſois fidele juſqu'à la mort,</hi> ſe doivent entendre non pas come on diſoit autreſois, <hi>amy juſqu'aus Autels:</hi> mais<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s'il faut ainſi parler, juſqu'à la mort, <hi>incluſivement:</hi> Au même ſens que S. Paul dit, que Jeſus Chriſt a été obeïſſant <hi>juſqu'à la mort,</hi> ce qui ne ſignifie pas ſeulement que ce divin Sau<g ref="char:EOLhyphen"/>veur rendit une exacte obeïſſance aus ordres ſacrez de ſon Pére, tout le tems de ſa vie; mais qu'il fut même fidéle, &amp; obeïſſant, juſqu'à ſoufrir cette mort honteuſe &amp; maudite que ſon Dieu luy avoit ordonée. Ainſi Jeſus Chriſt veut que nous endurions toute ſorte de ſupplices, plutôt que d'abjurer ſa verité, que de renoncer à l'obeïſſance que nous luy avons promiſe, &amp; à la fidelité que nous luy avons jurée. Il demande qu'il ſoit magnifié en nôtre corps, ſoit par la vie, ſoit par la mort: que s'il nous y apéle, pour l'intérêt de ſa gloire, nous le confeſſions, ſous une ſanglante grêle de piéres, come un S. Etiene; ſur un Echafaut, come un S. Paul; ſur une crois, come S. Pierre &amp; S. André; dans une chaudiere d'huile boüillante, come S. Jean; ſur les grils, ſur la glace, &amp; dans les flames, dans les cavernes, &amp; dans les antres de la Terre, come tant d'anciens &amp; de nouveaus Martyrs. C'eſt ſur ce fondement, que S. Paul <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>crivant aus Hebreus, qui étoient alors ſous la perſécution, &amp; qu'il exhorte à prendre garde qu'il n'y ait en quelqu'un d'eus un mauvais coeur d'increduli<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>é pour ſe révolter du Dieu vivant. Apres avoir raconté dans le chap. 11. la fi<g ref="char:EOLhyphen"/>delité, &amp; la conſtance de ces anciens Martyrs, qui avoient été <hi>lapidez,</hi> qui avoient été <hi>ciez,</hi> qui avoient été <hi>éprouvez,</hi> qui avoient été <hi>tuez par l'épée,</hi> il en conclut auſſi tôt dans l'entrée du chap 12. cette belle exhortation, qu'il leur a<g ref="char:EOLhyphen"/>dreſſe en des termes ſi forts, &amp; ſi patétiques, pour porter les Chrétiens à la conſtance, &amp; au courage, par l'exemple de tous ces généreus Martyrs, &amp; de Jeſus même nôtre Chef, <hi>Nous done auſſi</hi> (leur dit-il) <hi>puis que nous ſomes environez d'une ſi grande nuée de témoins, rejetans tout fardean, &amp; le</hi>
+                  <pb n="12" facs="tcp:174917:11"/> 
+                  <hi>pêché, qui nous envelope ſi aiſement, pourſuivons conſtament la courſe qui nous eſt propoſée. Regardant à Jeſus le chef &amp; le conſomateur de la foy: qui pour la joye qui luy etoit pro<g ref="char:EOLhyphen"/>poſée, a ſoufert la croix, ayant mepriſe la honte, &amp; s'eſt aſſis à la dextre du trône de Dieu.</hi> C'eſt là ce qu'il veut qu'ils conſiderent, afin qu'uls ne devienent point lâches en perdant courage; mais qu'ils combatent j'uſqu'au ſang. Et c'eſt pourquoy auſſi, nous voyons que ce fidele Apôtre luy-même, quand il s'aſſure que Jeſus Chriſt luy rendra la Courone de juſtice, il ne ſe conſidere pas come matant ſon corps, &amp; le réduiſant en ſervitude, ni come comba<g ref="char:EOLhyphen"/>tant pour le ſervice de ſon Prince céleſte: mais come ayant achevé ſes ſervices, &amp; ſa courſe; come ayant fini ſes glorieus combats, &amp; fourny ſon illuſtre carriére. <hi>J'ay combatu le bon combat</hi> (dit-il à Timothée <hi>j'ay achevé ma</hi> 
+                  <note place="margin">2 Tim. 4. 7. &amp; 8.</note> 
+                  <hi>courſe, j'ay gardé la foy; Du reſte la Courône de juſtice m'eſt reſervée.</hi> Par où il eſt viſible, qu'il parle par anticipation, &amp; qu'il ſe conſidére, come ayant déja ſoufert le martyre par lequel il eſt certain qu'il finit ſa ſainte courſe: Car nul n'eſt courôné, s'il n'a legitimement combatu; &amp; com<g ref="char:EOLhyphen"/>batre duement, c'eſt obſerver les lois du combat, c'eſt com<g ref="char:EOLhyphen"/>batre avec courage, avec fidelité, &amp; avec ardeur; c'eſt combatre juſqu'au ſang, &amp; juſqu'à la mort pour le temoi<g ref="char:EOLhyphen"/>gnage de la verité de Jeſus, quand il nous y apéle. Et bien loin d'y avoir une Courône de juſtice, &amp; de vie, re<g ref="char:EOLhyphen"/>ſervée pour les lâches &amp; pour les timides Apoſtats, qui craignent de pendre la vie pour l'amour de luy, qu'il ne leur eſt preparé qu'un étang de feu &amp; de ſoulfre. Et Dieu nous declare luy même, que quiconque ſe ſouſtrait, ſon ame ne prend point de plaiſir en luy. Le martyre eſt le ſceau du Chrétien; quand la Providence Divine engage le fidéle à le ſoufrir, il faut alors qu'il l'endure. C'eſt dans cette veue que les ſaints Apôtres du Seigneur l'ont cou<g ref="char:EOLhyphen"/>rageuſement ſouſert: Car s'ils n'euſſent crû que c'étoit un devoir indiſpenſable, ils eſſent pû l'eviter: Mais ſans doute ils êtoient perſuadez qu'ils ne pouvoient être fide<g ref="char:EOLhyphen"/>les à Jeſus Chriſt, ni obtenir le ſalut, s'ils ne ſoufroient pour ſon nom, quand il le vouloit.</p>
+               <pb n="13" facs="tcp:174917:11"/>
+               <p>Les prémiers Chrêtiens avoient apris Jeſus Chriſt de la ſorte: de à vient, que non ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ulement ils ſoufroient le martyre avec joye; mais que pluſieurs d'entr'eus alloient le chercher. De à vient encore qu'<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ls <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>âtiſoient leur en<g ref="char:EOLhyphen"/>fans prés des Tombeaus des Martyrs; &amp; que les Chrê<g ref="char:EOLhyphen"/>tiens, qui pour la crainte de la mort, renioient Jeſus Chriſt, é<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>otent conſiderez parmy les fidéles, non ſeule<g ref="char:EOLhyphen"/>ment come de laches Apoſtats; mais auſſi come des gens entierement perdus. Les Novatiens ne vouloient point les réadmettre au nombre des fidéles; Car ils croyoient que c'êtoit de ces ſortes de perſones d'ont S. Paul avoit voul<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> parler dans le 6. chapitre de ſon Epître aus Hebreus, quand il dit, <hi>Qu'il eſt impoſſible que ceus qui ont eté une fois illuminez, qui ont gouté le don celeſte, qui ont eté faits parti<g ref="char:EOLhyphen"/>cipans du S. Eſprit; Et qui ont goute la bone Parole de Dieu, &amp; les puiſſances du ſiécle à venir; s'ils retombent, ſoient renouvelez par la repentance, veu que quand à eus ils cruci<g ref="char:EOLhyphen"/>fient de nouveau le Fils de Dieu, &amp; l'expoſent à à oprobre.</hi> Ils diſoient auſſi que l'apoſtaſie étoit <hi>le peché à mort,</hi> d'ont <note place="margin">1 Jean. v. 16.</note> parle S J<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an, &amp; pour lequel il ne dit point que nous pri<g ref="char:EOLhyphen"/>ons. Et ſi on admettoit derechef ces ſortes d'Apoſtats, c'étoit apres une longue &amp; une ſévere penitence, apres que pendant pluſieurs années, ils avoient doné des marques de leur pieté, &amp; de leur repentance. On en a v<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u auſquels <note place="margin">Tertul. lib. de poenit.</note> on a doné juſqu'à dix années d'épreuve? Mais ordinaire<g ref="char:EOLhyphen"/>ment on ne leur en donoit pas moins de trois: Et pour entendre le procedé de l'Egliſe Primitive envers ceus qui tomboient de la ſorte, il ne faut qui lire Phiſtoire de la chûte d'Origéne. La crainte de voir ſon corps honteuſe<g ref="char:EOLhyphen"/>ment proſtitué à un Etyopien, le forca d'oſrir de l'encens <note place="margin">Suidas Niceph. lib. 5. cap. 32.</note> à l'Idole, encore luy mit-on Pencenſoir à la main: ce<g ref="char:EOLhyphen"/>pendant il ſut excomunié, &amp; on le regarda avec tant d'horeur, que ne pouvant ſuporter la honte, d'ont on le couvroit; il fut obligé de quiter Alexandrie, &amp; d'aler à Jeruſalem: Là étant obligé de monter en chaire, il recita ſeulement les paroles au Pſeaume cinquanti<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me, <hi>Dieu dit au méchant, qu'as tu à faire de reciter mes ſtatuts, &amp; de</hi>
+                  <pb n="14" facs="tcp:174917:12"/> 
+                  <hi>prendre mon alliance en ta bouche, veu que tu hais corection &amp; que tu as jetté mes paroles dériere toy;</hi> Et les larmes luy tombant alors des yeus, il deſcendit auſſi tôt de chaire. Je ſay bien que les Gnoſtiques, cette maudite ſecte, qui a tant fait de tort au nom Chrêtien, tâcha d'introduire un autre Evangile: Car ils enſeignoient qu'on pouvoit abjurer la Religion Chrètiene, par la crainte de la mort. Mais toute l'Egliſe s'èleva contre ces Hérétiques, &amp; condana cette doctrine pernicieuſe; Et il y a de ſcavans homes qui croyent, que ce ſont ces gens, &amp; leur doctrine, que S. Jean, combat dans ſes Epîtres; &amp; particulierement, dans ſes Revelations, parce qu'elle comencoit à ſe répandre avant qu'il mourut; Et certes il y à bien de l'aparence; Car il ſemble que ce bien-aymé Diſciple tâche dans ſon Apocal. de montrer que le Martyre eſt le bon-heur des fidéles. Des l'entrée il done à Jeſus le nom de <hi>fidéle Martyr,</hi> afin de doner aus Chrétiens une favorable idée du martyre. Pour le même deſſein, il raconte les merveilleuſes faveurs, d'ont Dieu le favoriſa luy-même apres ſes ſoufrances, &amp; dans ſon baniſſement. Enſuite il propoſe aus Chrétiens de grandes &amp; de glorieuſes récompenſes; Mais il ne les ſait eſpérer qu'à ceus qui vaincront.</p>
+               <p>De cette maniere d'exhorter au martyre, il paſſe à une autre bien forte, &amp; bien touchante; nous faiſant voir, les Evangeliſtes, les Apôtres, &amp; les bien heureus Martyrs revêtus de gloire, proſternez aus pieds du trône de Jeſus, luy ren<g ref="char:EOLhyphen"/>dans grace, &amp; luy faiſans homage de leur courônes. En<g ref="char:EOLhyphen"/>ſuite il nous montre une grande multitude que perſone ne <note place="margin">Chap. 7.</note> pouvoit center, de toutes nations, tribus, peuples, &amp; lan<g ref="char:EOLhyphen"/>gues, qui ſe tenoient devant le trône, &amp; en la preſence de l'Agneau, vêtus de robes blanches, &amp; ayans des palmes en leur mains, qui crioient à haute vois, le ſalut apartient à nôtre Dieu qui eſt aſſis ſur le Trône, &amp; à l'Agneau. Il nous dit que ces perſonnes ſont venus de la grande tribulation, qu'ils ont lavé leur robes, &amp; les ont blanchies dans le ſang de l'Agneau. Il nous aſſure que c'eſt pour cela qu'ils ſont devant le Trône de Dieu, &amp; qu'ils le ſervent jour &amp; nuit.
+<pb n="15" facs="tcp:174917:12"/> Enſin, ſi ce bien aymé diſciple nous fait la deſcription de la Jeruſalem Celeſte, s'il nous montre, qui ſont ceus qui y doivent entrer, il nous proteſte que ce ne ſont ni les lâ<g ref="char:EOLhyphen"/>ches, ni les timides; Et que ſon divin Maitre luy a doné un commandement particulier d'écrire que bien-heureus ſont les morts qui meurent au Seigneur (il y a dans l'ori<g ref="char:EOLhyphen"/>ginal, <hi>pour le Seigneur)</hi> qu'ils ſe repoſent de leur travaus, &amp; que leurs oeuvres les ſuivent. En un mot, il ſemble que ce livre ſoit une ſource de Conſolations pour ceus qui ſou<g ref="char:EOLhyphen"/>frent le Martyre, un traité fait exprés pour prouver aus Chrétiens qu'ils doivent être fidéles à Jeſus Chriſt juſqu'à la mort.</p>
+               <p>Voila, mes fréres, qu'elle eſt l'etendue de la fidelité que nous devons à nôtre divin Maitre, qui conſiſte, come je viens de vous le faire voir, a ſoufrir la mort même la plus cruelle plutôt que d'abandoner ſon ſervice, &amp; ſa veritè: Et même, pour le dire en paſſant, plutôt, que de rien entre<g ref="char:EOLhyphen"/>prendre contre la foy &amp; l'obeiſſance que nous devons aus Puiſſances Superieures qu'il a ètablies ſur nous, ſi nous avions le mal-heur de nous trouver dans des tems ſembla<g ref="char:EOLhyphen"/>bles à celuy de nôtre bien-heureus Martyr Polycarpe, où nos Superieurs vouluſſent nous obliger à encenſer à l'Idole, ſous peine de ſoufrir la mort, comme ce ſaint homme, nous ſerions obligez de l'endurer avec conſtance, &amp; avec courage. <hi>Defenda eſt veritas non occidendo, ſed moriendo:</hi> 
+                  <note place="margin">Cypr.</note> Il faut defendre la verité de Jeſus Chriſt, non pas en tuant, mais en mourant.</p>
+               <p>Nôtre divin Sauveur pouvoit avec beaucoup de juſtice attendre cette fidelité de ce bien-heureus Martyr auquel il parle, puis qu'il y étoit engagé par tant de ſortes conſi<g ref="char:EOLhyphen"/>derations: Cependant pour l'y porter plus puiſſament, il luy met devant les yeus une Courône de juſtice &amp; de vie, d'ont il veut recompenſer le zéle &amp; la fidelité de ce ſaint perſonnage, <hi>Sois fidéle juſqu'à la mort, &amp; je te doneray la Courône de vie.</hi> C'eſt la promeſſe ajoû ée à l'exhortation, &amp; la derniere choſe qui me reſte à preſent a examiner, dans ma troiſiéme partie.</p>
+               <pb n="16" facs="tcp:174917:13"/>
+               <p>Par cette Courône de vie, il faut entendre la vie eternél<g ref="char:EOLhyphen"/>le, la felicité d'ont D<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ire joi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir les fidéles au ſortir de ce monde: ce n'eſt pas S. Jean ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ul qui don<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> à la vie eter<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> éle le <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om de Courône. Les autres Apô<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>res en uſent de la ſor<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, <hi>Fien heure<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s,</hi> di<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> S. Jaques, <hi>eſt celuy qui <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>endure la tentation: Car quand il aur<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> éré rendu éprou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>é, il recevra la Courône de vie, que Dieu a promiſe à ceus qui l'ay<g ref="char:EOLhyphen"/>ment.</hi> 
+                  <note place="margin">Jac. 1. 12.</note> Et S. Paul voulant dire que la <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>licité eternéle luy é<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oit reſervée, s'<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xprime en ces termes, <hi>la Courône de Ju<g ref="char:EOLhyphen"/>ſtice</hi> 
+                  <note place="margin">2 Tim. 4. 8. 1 Pier. 1. 4. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> 
+                  <hi>m'eſt réſervée.</hi> S. Pi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rre la nome une Courône incor<g ref="char:EOLhyphen"/>ruptible qui ne ſe pout ſoi iller, ou comme il y a dans le Grec, une Courône <hi>d'amarante.</hi> D'où viennent ces ſortes d'expreſſions? Po<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> quoy eſt-ce que l'Ecriture s'en ſert ſi fréquament? Eſt-ce que les choſes ſe doivent paſſer dans le Ci<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l comme elles ſe paſſoient autrefois ſur la Terre, dans les Jeux, dans les courſes, &amp; dans les combats de la Grece, cù on donoit des Courônes aus vainqueurs? Les fidéles doivent-ils porter des Courônes dans le Paradis, &amp; étre élevez ſur des t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ônes comme l'étoient autrefois ceus qui avoient fait de grandes choſes pour leur Patrie? On diroit les prémiers Ch<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>é<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns auroient eu cette penſée; Car nous liſons dans l'hiſtoire qu'ils arboroient des Mirtes &amp; des Lauriers ſur les Tombeaus de leurs Martyrs, qu'ils les acompagnoient au ſuplice avec des aclamatio<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s &amp; des hants de Triomfe, &amp; qu'ils apeloient le jour de leur Mar<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yre, le jour de leur couronement. Mais vous ſavez, mes fiéres, qu'il faut entendre cecy d'une maniere ſpirituélle &amp; divine: Et que le Royaume des Cieus, étant un roy<g ref="char:EOLhyphen"/>aume ſpirituél, les recompenſes que Dieu y donne à ſes fi<g ref="char:EOLhyphen"/>déles qui ont vaincu, ſont de la nature de leur combats, &amp; come leur combats ſont ſpirituels; leurs recompenſes auſſi ſont ſpirituéles.</p>
+               <p>Ce que faiſoient ces prémiers Ch<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>étiens n<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>é<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oit pas pour perſuader au monde que leurs Martyrs au ſortir de cette vie, étoient Couronez d'une Courône matéri<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le; mais qu'ils étoient comblez d'honeur &amp; de gloire, qu'ils ob<g ref="char:EOLhyphen"/>tenoient da<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> le Ciel des honeurs du moins auſſi grands
+<pb n="17" facs="tcp:174917:13"/> pour ne pas dire infiniment d'avantage, que ne ſont ceus d'ont jouïſſent les têtes couronées ſur la terre, &amp; que mourir pour Jeſus Chriſt étoit du moins une choſe auſſi glorieuſe que d'être couroné dans le monde, que le jour des ſoufrances du Martyre merite autant d'aclamations, que le jour du couronement en demande pour la perſone qui eſt couronée ſur la Terre. Ainſi done quand icy, &amp; en d'autres endroits de l'Ecriture, Jeſus Chriſt promet des Courônes à ſes fidéles, qu'il nous eſt di<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> que les Saints glori<g ref="char:EOLhyphen"/>fiez portent des Courônes dans le Ciel, <gap reason="illegible" resp="#APEX" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>evons pas prendre ces expreſſions au pié de la <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> des faſ<g ref="char:EOLhyphen"/>ſons de parler figurées: Mais d'où vi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> q<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> s'en ſert pour nous repréſenter la vie etern<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>? <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, mes Fréres, que come l'Epouſe au Cantique des Can<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ques, fait de toutes les Creatures un miroir où elle void les perfections de ſon bien-aymé, contemplant ſa blancheur dans les lis; ſa pureté admirable dans les ſontames; ſa douceur infinie dans les colombes; dans le ſoleil ſon éclat &amp; ſa merveil<g ref="char:EOLhyphen"/>leuſe ſplendeur; dans les rochers ſa force &amp; ſa durée: ainſi Dieu nous voulant repreſenter la vie eternélle qui nous attend dans le Ciel, afin de nous en faire mieus compren<g ref="char:EOLhyphen"/>dre l'excellence &amp; la grandeur, raſſemble tout ce qu'il y a au monde de plus grand, de plus magnifique, de plus éclatant, &amp; de plus agréable, &amp; ce qui fait ordinairement le plus d'impreſſion ſur nos eſprits, &amp; luy done le nom de <hi>la vie eternéle.</hi> Suivant cet<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e idée, il nous parle de f<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtins continuéls, de Palais ſuperbes, de grandeurs éminentes, de fleuves de delices, de Trônes, &amp; de Courônes.</p>
+               <p>On peut à mon avis doner pluſieurs raiſons pour mon<g ref="char:EOLhyphen"/>trer que c'eſt avec beaucoup de juſtice que la vie etérnele nous eſt repreſentée ſous l'embleme d'<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n. Courône.</p>
+               <p n="1">1. Les Chrétiens ſont ſouvent apelez des Rois; mais en<g ref="char:EOLhyphen"/>tant que fidéles, ils n'ont ni de royaume, ni de Courône ſur la Terre; leur royaume eſt le Ciel. Or s'ils ſont apelez Rois, parce qu'ils doivent un jour poſſéder ce royaume, il ſemble que la raiſon veut que la joye d'ont ils y doivent jouïr, le bonheur qu'ils y doivent poſſeder,
+<pb n="18" facs="tcp:174917:14"/> ſoit apelé une Courône; Car les Rois doivent étre cou<g ref="char:EOLhyphen"/>ron<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>z.</p>
+               <p n="2">2. Nous ne voyons rien ſur la Terre de plus grand, ni de plus auguſie que la Courône, c'eſt le plus prétieus, &amp; le plus auguſte ornement qui ſoit entre les hommes, c'eſt la marque de la dignité ſupréme, c'eſt pourquoy elle eſt miſe ſur la tête des Monarques qui ſont des Dieus en Terre, &amp; les images vivantes du Roy des Rois, ainſi elle eſt tres propre à repreſenter la vie etérnele, qui eſt le plus grand bien où les hommes puiſſent aſpirer, la marque de la plus haute dignité, le comble de la grandeur, le dernier degré de la gloi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</p>
+               <p n="3">3. La Courône eſt le ſymbole de la victoire &amp; du triomfe; ainſi en cela, elle eſt encore tres propre à doner une idée de la gloire éternele, cù nous triomferons de tous nos en<g ref="char:EOLhyphen"/>nemis. Pendant que nous ſomes dans le monde, nous avons toûjours quelques adverſaires à combatre; mais au Ciel nous ſerons delivrez de tous; c'eſt là proprement que nous pourons nous écrier, <hi>Graces à Dieu qui nous a doné la victoire par nôtre Seigneur Jeſus Chriſt.</hi>
+               </p>
+               <p n="4">4. La Courône étant d'une figure ronde, elle n'a ni comencement ni fin, &amp; elle eſt l'emblême de la perfection &amp; de la plenitude. Cela repreſente admirablement bien l'état des bien-heureus dans le Ciel, la vie glorieuſe d'ont ils y jouïſſent, eſt une vie qui n'aura point de fin, qui eſt éternele dans ſa durée, come dans ſon bonheur. La mort qui fait tomber les Courônes de la Terre, &amp; qui les ren<g ref="char:EOLhyphen"/>verſe, ne ſera pas capable d'aporter icy aucun changement: l'infinie durée de tant de ſiécles qui paſſeront, ne pourra al<g ref="char:EOLhyphen"/>térer ni ternir l'état &amp; la ſplendeur de cette Courône de gloire &amp; de vie, elle demeurera toûjours brillante &amp; écla<g ref="char:EOLhyphen"/>tante d'eternité en eternité: alors les fidéles entreront dans une pleine poſſeſſion, &amp; dans une parfaite jouïſſance de toute ſorte de biens &amp; de graces <hi>qu'<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eil n'a point v<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>üs, qu'<g ref="char:EOLhyphen"/>oreille n'a point ouïs, &amp; qui ne ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt point montez au coeur de l'<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ome; mais que Dieu a reſervéz pour ceus qui l'ayment.</hi>
+               </p>
+               <p>Mais je penſe qu'outre ces raiſons qui ont pü obliger
+<pb n="19" facs="tcp:174917:14"/> Jeſus Chriſt à apeler la vie éternele une Courône, il luy done ce nom par alluſion à ce qui ſe paſſoit dans le tems cù Po<g ref="char:EOLhyphen"/>lycarpe vivoit: la fidelité &amp; le courage faiſoient parvenir à la Courône, avant qu'elle devint ſucceſſive; celuy qui avoit témoigné une inviolable fidelité à ſa Patrie, &amp; qui avoit ſoufert pour elle, recevoit une Courône pour récompenſe de ſes ſervices, &amp; cela étoit ſi aſſuré, que quand le fidéle citoyen avoit porté ſon courage &amp; ſa valeur juſqu'à mourir dans l'entrepriſe; on le couronoit tout mort qu'il étoit; Et non ſeulement cela, mais mëme on couronoit ſon Tom<g ref="char:EOLhyphen"/>beau: Et je ne doute point que Jeſus Chriſt ne faſſe icy alluſion à cette coutûme; &amp; que quand il adreſſe cette ex<g ref="char:EOLhyphen"/>hortation à Polycarpe, au milieu des glorieuſes ſoufrances où étoit ce fidéle ſerviteur, il ne luy veüille dire, que s'il porte ſa fidelité &amp; ſon zéle <hi>juſqu'à la mort,</hi> come faiſoient quelque fois les homes pour une courône <hi>morte &amp; corrupti<g ref="char:EOLhyphen"/>ble,</hi> qu'il recevra de ſa part, pour récompenſe, une Cou<g ref="char:EOLhyphen"/>rône <hi>de vie:</hi> Par où Jeſus Chriſt nous inſinüe encore la rai<g ref="char:EOLhyphen"/>ſon pour laquelle il ne dit pas ſeulement une <hi>Courône;</hi> mais une <hi>Courône de vie,</hi> par oppoſition aus Courônes que l'on donoit alors, &amp; généralement à ce qui ſe partiquoit dans les courſes &amp; dans les jeux de la Grece, où ceus qui remportoient le prix, obtenoient des Courônes, d'ont les unes étoient de fleurs, les autres d'herbes, &amp; les autres de feüilles; tantôt de <hi>Laurier,</hi> come aus jeux <hi>Phytiens;</hi> tantôt <hi>d'olivier ſauvage,</hi> -come celles des jeux <hi>Olympiens;</hi> tantôt de <hi>Perſil,</hi> come aus <hi>Neméens;</hi> &amp; tantôt de <hi>Pin,</hi> come aus <hi>Iſthmiens.</hi> Et il y avoit en outre un Herauld qui propoſoit à haute voix les conditions de la courſe, ou du combat, &amp; qui tenoit une Courône <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n ſes mains pour la metre ſur la tête du vainqueur. Toutes ces Courônes étoient flé<g ref="char:EOLhyphen"/>triſſables, mortelles, &amp; corruptibles; mais voicy nôtre di<g ref="char:EOLhyphen"/>vin Jeſus qui du haut de ſon Ciel, propoſe icy les conditi<g ref="char:EOLhyphen"/>ons<g ref="char:punc">▪</g> de la courſe, du combat, &amp; de la victoire à ſon ge<g ref="char:EOLhyphen"/>néreus Atléte Polycarpe, aſſavoir une <hi>Courône;</hi> mais une Courône qui ſe conſerve dans une éternele fraicheur, une Courône inflétriſſable, &amp; incorruptible de gloire, de
+<pb n="20" facs="tcp:174917:15"/> juſtice, &amp; de vie. Il la fait come briller &amp; éclater devant ſes yeus pour l'encourager, &amp; l'aſſure luy-même de ſa bouche ſacrée qu'il la luy donera, &amp; qu'il la poſera ſur ſa tête fidéle &amp; triomfante, <hi>Sois fidéle juſqu'à la mort, &amp; je te doneray la Courône de vie.</hi>
+               </p>
+               <p>En<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in (pour ne multiplier point trop ces conſiderations) diſons que Jeſus Chriſt, ne done pas ſeulement le nom de vie à cette Courône par oppoſition aus Courônes <hi>mortes</hi> de la Terre; mais particulierement auſſi par oppoſition à la mort d'ont il parle dans nôtre Texte, &amp; qu'il exhorte Poly<g ref="char:EOLhyphen"/>carpe à ſoufrir pour luy. Come s'il luy diſoit, par la fide<g ref="char:EOLhyphen"/>li<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>é que tu me garderas, tu ne peus perdre qu'une vie courte &amp; miſerable, tu ne peus ſoufrir qu'une mort de peu de moments, &amp; au lieu de cette vie periſſable &amp; mourante, au lieu de cette mort qui ne fait que paſſer, je te doneray une vie glorieuſe &amp; immortéle qui te ſera pour Courône. Ainſi le Seigneur qui eſt un bon medecin, &amp; un ſage diſ<g ref="char:EOLhyphen"/>penſateur de ſes graces, dés qu'il a anoncé un mal, il propoſe auſſi tôt le remede, il a declaré auparavant les ſoufrances &amp; la tribulation qui devoient arriver à ſon ſerviteur fidéle, il luy fait eſperer enſuite, &amp; luy met en veüe la gloire qui les devoit ſuivre, il luy propoſe la vie pour reméde à la mort. Il en uſe à peu p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>és de même envers les Egliſes d'Epheſe &amp; de Pergame; Car en les exhortant à fuïr les actions des Nicolaïtes qui mangeoient des choſes ſacrifiées aus Idoles, il leur promet des viandes bien plus exquiſes, &amp; bien plus delicieuſes, <hi>une arbre de vie, une manne cachée</hi> pour veu qu'elles perſeverent à s'abſtenir de ces banquets criminéls.</p>
+               <p>Mais remarquez icy que Jeſus Chriſt dit qu'il <hi>donera</hi> cette Courône, pour marquer que la vie eternéle eſt <hi>un don de Dieu,</hi> &amp; que quoy que nôtre fidelité ſoit le chemin à la gloire, au royaume, &amp; à la Courône, ce n'en eſt pour<g ref="char:EOLhyphen"/>tant pas proprement la cauſe. Ce même Jeſus qui parle icy, nous aſſure en un autre endroit, que quand nous aurions fait, diſons auſſi que quand nous aurions ſoufert tout ce qui nous eſt comandé, nous ne meritons rien à parler à la ri<g ref="char:EOLhyphen"/>gueur,
+<pb n="21" facs="tcp:174917:15"/> il faut que nous diſions, tout ce que nous étions ob<g ref="char:EOLhyphen"/>ligez de faire &amp; de ſoufrir, nous l'avons fait, &amp; nous l'avons ſoufert, nous n'avons rien fait ni enduré que ce à quoy nous étions engag<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>z par tant de raiſons, nous le devions à la gloire de nôtre divin Maître, qui eſt non ſeulement nô<g ref="char:EOLhyphen"/>tre Createur &amp; nôtre bienfaiteur, mais auſſi nôtre Redemp<g ref="char:EOLhyphen"/>teur, que nous devons <hi>glorifier en nos corps &amp; en nos eſprits, qui luy apartiennent</hi> par tant de <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>îtres diférens; nous ſomes des ſerviteurs inutiles, (&amp; plût à Dieu que nous le fuſſions en ce ſens.) Ariére donc d'icy la doctrine orgueilleuſe de l'Egliſe Romaine, qui enſeigne que par nos ſoufrances &amp; par nos bonnes oeuvres nous meritons &amp; nous achetons le Ciel &amp; la Courône de vie. Ce n'eſt pas là, la penſée de S. Paul, qui quoy qu'il eut travailé luy ſeul plus que tous les autres Apôtres enſemble, &amp; que mêmes ſes liens &amp; ſes ſoufrances en Chriſt euſſent é<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>é rendus celebres depuis Jeru<g ref="char:EOLhyphen"/>ſalem juſques en l'Illyrie, &amp; juſques au Prétoire, nous aſſure pourtant que <hi>tout bien conté, les ſoufrances du tems preſeut,</hi> 
+                  <note place="margin">Rom. 8. 18.</note> &amp; par conſéquent le martyre même, tout grand, tout dif<g ref="char:EOLhyphen"/>ficle, &amp; tout glorieus qu'il eſt, <hi>ne ſont point à balancer con<g ref="char:EOLhyphen"/>tre la gloire avenir qui doit être revélée en nous.</hi> Ce n'eſt pas le ſentiment de nôtre Apôtre, qui nous ayant repreſenté dans le 7. de ſon Apocalypſe, ces Martyrs glorifiez qu'il voyoit dans le Ciel vêtus de robes blanches, &amp; qui étoient venus de la grande tribulation, nous aſſure, que ſelon qu'il luy fut revelé par un des vieillards, ces bien-heureus <hi>étoient</hi> 
+                  <note place="margin">Apoc. 7. 14, &amp; 15.</note> 
+                  <hi>devant le Trône de Dieu, &amp; le ſervoient jour &amp; nuit, parce qu'ils avoient lavé leur robes, &amp; les avoient blanchies dans l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſang de l'Agneau.</hi> Et c'eſt pourquoy auſſi ces Eſprits des Juſtes ſanctifiez, nous ſont repreſentez en un autre endroir de ce même livre, <hi>jettans leur Courônes aus piés de l'Ag<g ref="char:EOLhyphen"/>neau,</hi> montrans par là, come l'interpréte un Pére de l'E<g ref="char:EOLhyphen"/>gliſe, que tout ce qu'ils ont de dignité &amp; de bonheur, ils confeſſent le tenir de Jeſus Chriſt &amp; de ſa liberalité, luy attribuans la gloire de leur victoire &amp; de leur triomfe. Je ſay bien que S. Paul dans une de ſes Epîtres done à cette vie éternele le nom de <hi>Courône de juſtice,</hi> ce qui ſemble être op<g ref="char:EOLhyphen"/>poſé <note place="margin">2 Tim. 4.</note>
+                  <pb n="22" facs="tcp:174917:16"/> à la Courône de grace &amp; de miſericorde; mais cela s'acorde cependant tres bien; c'eſt une Courône de juſtice <hi>non pas de la juſtice de S. Paul:</hi> Car ce grand Apôtre ne de<g ref="char:EOLhyphen"/>ſiroit point <hi>d'étre trouvé ayant ſa propre juſtice;</hi> mais <hi>de la juſtice de Dieu,</hi> non pas de la juſtice par laquelle il juge ſe<g ref="char:EOLhyphen"/>lon les merites, mais de celle par laquelle il eſt conſtant en ſes promeſſes &amp; en ſes graces. Concluons donc cette ex<g ref="char:EOLhyphen"/>plication par les paroles de S. Auguſtin, <hi>que quand Dieu nous courone, il courone ſes propres dons en nous,</hi> &amp; finiſſons tout ce diſcours par quelques reflexions.</p>
+               <p>Premiérement, De ce que nous avons appris, que pour être fidéles à Jeſus Chriſt, il faut non ſeulement croire en ſon nom, mais le confeſſer publiquement, &amp; que cette foy &amp; cette confeſſion ſe doivent juſtifier &amp; faire paroître au dehors, par des oeuvres de pieté, ſouvenons-nous que nous ne ſomes point fidéles à ce bien-aymé Sauveur, à moins que ces trois choſes ne ſe trouvent en nous; pour être tels, nous devons être perſuadez, <hi>qu'il eſt la propitiation pour nos pechez.</hi> Et dans cette aſſurance nous devons nous apuyer ſur luy, le choiſir pour nôtre réfuge dans nôtre vie, &amp; à l'heure de nôtre mort. Mais ce n'eſt pas aſſez d'être per<g ref="char:EOLhyphen"/>ſuadez qu'il eſt nôtre Sauveur &amp; nôtre Interceſſeur; de nous apuyer ſur luy come étant tel, il faut que nôtre bouche dé<g ref="char:EOLhyphen"/>clare cette foy, il faut que nous confeſſions ce bien-aymé Sauveur en qui nous croyons, &amp; ſur lequel nou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> nous repoſons toutes les fois que nous y ſomes obligez; &amp; enfin, il faut que nous montrions nôtre foy par nos oeuvres, &amp; que nous juſtifions par nôtre vie aus yeus de tout le monde que nous ſomes fidéles &amp; enfans de Dieu. Somes nous donc fidéles à Jeſus Chriſt de la ſorte? Certes la foy de pluſieurs eſt bien confuſe; ils font profeſſion de croire, mais c'eſt tout; ils regardent les promeſſes &amp; les menaces de l'Evangile come des promeſſes &amp; des menaces qui peut être s'accompliront &amp; peut être ne s'accompliront pas: Ils flotent entre le doute &amp; la foy pendant leur vie, &amp; leur mort fait finir leur vie de la ſorte; Et il ne s'en faut pas étoner: Car il eſt bien juſte que ceus qui ont vêcu dans une
+<pb n="23" facs="tcp:174917:16"/> continuéle défiance, meurent de la même maniere. Voila l'état de bien des Chrétiens, voila coment ils croyent, combien confeſſent Jeſus Chriſt ſelon la meſure de cette foy? Il ne faüt à pluſieurs que la preſence d'une perſone de contraire Religion pour les obliger, ou à blâmer l'E<g ref="char:EOLhyphen"/>vangíle, ou à noſer le confeſſer: Et pour les oeuvres de pieté, combien peu de gens ſont Chrétiens par cette marque? <hi>toute chair a corompu ſa voye, les Adultéres, les paillardiſes, &amp; les autres oeuvres de la chair ſont maniféſtes;</hi> &amp; la vie de pluſieurs Chrétiens eſt plus infame &amp; plus débordée que celle de ceus qui ne conoiſſent point Dieu: C'eſt en vain que ces faus Chrétiens ſe fondent ſur leur profeſſion exterieure du Chriſtianiſme, c'eſt s'apuyer ſur un roſeau caſſé; un jour le Seigneur leur criera, je ne vous conois point, ouvriers d'iniquité, departez vous d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> moy.</p>
+               <p>Mes Fréres, ne les imitons pas, ſoyons fidéles à Jeſus Chriſt come il le demande, &amp; ſi nous luy ſomes fidéles, il nous ſera fidéle ſelon ſes promeſſes &amp; nos eſperances, &amp; il nous metra infailliblement en poſſeſſion du bonheur &amp; de la gloire qu'il promet à ſes enfans.</p>
+               <p>2. De ce que nous avons veu que nôtre fidelité doit aller juſqu'à la mort, aprenons aujourduy que nous ſomes dans le calme &amp; dans la proſperité, ce que nous devons être dans la tempête &amp; dans l'adverſité, c'eſt d'être fi<g ref="char:EOLhyphen"/>déles à nôtre Sauveur juſqu'à mourir pour ſa cauſe; je ſay que c'eſt une choſe dure à la chair &amp; au ſang <hi>qui ne comprennent point les choſes qui ſont de Dieu:</hi> mais enfin il le faut, Dieu le comande, &amp; c'eſt le devoir de tous les bons Chrétiens. Vôtre coeur vous dit-il donc, que ſi Jeſus Chriſt vous apeloit à ſoufrir pour ſon Nom, vous-vous ſentez réſolus à mourir plutôt que de renoncer à la foy? ô combien y en a-t-il qui ſont éloignez de ces nobles &amp; gé<g ref="char:EOLhyphen"/>nereus ſentimens, &amp; que leur coeur condane ſur ce ſu<g ref="char:EOLhyphen"/>jet? Combien qui s'imaginent qu'une menace eſt une excuſe plus que ſuffiſante pour les obliger à abjurer leur
+<pb n="24" facs="tcp:174917:17"/> Religion: On croit <hi>l'apoſtafie</hi> un peché fi peu conſiderable, que c'eſt même un crime &amp; un peché de luy doner ſon vray nom, quiconque apele <hi>Apoſtat</hi> un home qui abjure la bone Religion, paſſe dans l'eſprit de pluſieurs prétendus bons Chrétiens pour un calomniateur, &amp; un home ſans cha<g ref="char:EOLhyphen"/>rité, ô tems! ô moeurs! en quel ſiécle ſome nous? Il nous faut faire un autre Evangile, il faut brûler tous les livres de nos Martyrs, ils avoient bien tort de ſoufrir tant de ſuplices ſi cruels, plutô: que d'abandoner la pureté de leur croyance, on trouve aujourduy des accomodemens bien plus dous pour être fidéles à Jeſus Chriſt, &amp; ſelon le beau ſentiment de pluſieurs on peut abjurer ſa Religion, &amp; cependant demeurer toûjours fidéles; Ce n'eſtoit pas ſans doute la penſée de ce grand &amp; de ce fameus Ar<g ref="char:EOLhyphen"/>chevêque <note place="margin">Cranmer.</note> de ce païs, qui ayant eu le malheur de ſigner l'abjuration de la Religion Proteſtante, enſuite honteus &amp; conſus de ſa lâcheté, retracta ſa parole, ala hardiment au bucher, mit d'abord dans le feu la main qui avoit trahi ſon coeur en ſignant ſa renonciation: Cette action a paſſé autrefois pour belle &amp; pour glorieuſe; Mais par<g ref="char:EOLhyphen"/>my pluſieurs aujourduy, ce n'eſt qu'une folie, &amp; en é<g ref="char:EOLhyphen"/>ſet ſelon leur principe, c'en étoit une tres grande, &amp; ceus qui euſſent voulu parler de luy faire faire une lon<g ref="char:EOLhyphen"/>gue penitence, euſſent paſſé pour des calomniateurs &amp; des gens ſans charité.</p>
+               <p>Ce n'étoit pas non plus le ſentiment de ce marchant nomé <hi>Gatine,</hi> qui vivoit en France au com<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ncement de la Reformation. Il fut condané luy &amp; ſon fils à être pendus pour avoir fait prêcher dans leur maiſon: come le pére é<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oit au haut de l'échéle tout prêt être exe<g ref="char:EOLhyphen"/>cuté, on luy promit la vie en cas qu'il voulut ſe faire Papiſte; cette promeſſe cut tant de pouvoir ſur ſon eſ<g ref="char:EOLhyphen"/>prit dans ce moment, qu'il promit de faire ce qu'on voudroit. En même tems il comence à deſcendre de l'echéle: ſon fils qui êtoit au p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>é du gibet s'en aperce<g ref="char:EOLhyphen"/>vant, luy parla de cette ſorte, <hi>Quoy, mon pére, vous</hi>
+                  <pb n="25" facs="tcp:174917:17"/> 
+                  <hi>aviez un pié dans le Paradis, &amp; <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>vous l'en retriez pou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> vous précipiter dans l'Enfer?</hi> Ces paroles prononcées d'un ton ferme &amp; aſſuré, firent tant d'impreſſion ſur l'eſprit du Pére, que honteus, il remonta l'échele, &amp; ſou<g ref="char:EOLhyphen"/>frit courageuſement; c'eſt ce que fit ſon fils un moment apres luy: La maiſon de ce marchand fut raſée, &amp; on y planta une croix, qu'on nomma <hi>la Croix Gatine,</hi> de ſon nom. Si cela fut arrivé en nos jours, combien ſe fut<g ref="char:EOLhyphen"/>on moqué d'eus, on les eut fait paſſer pour des foux; car ils n'avoient qu'à abjurer, &amp; on eut enſuite trouvé aſſez de moyens de les excuſer, &amp; de faire valoir leur action à leur avantage; on eut même jugé que c'étoit trop leur demander que de leur faire faire un compli<g ref="char:EOLhyphen"/>ment &amp; une reconoiſſance devant leurs Paſteurs, s'ils euſſent voulu ſe refaire Proteſtants. Ariére de nous ces lâches &amp; ces maudits ſentimens: ce n'eſt pas là l'Evan<g ref="char:EOLhyphen"/>gile que nous avons receu de Jeſus, &amp; de ſes ſaints A<g ref="char:EOLhyphen"/>pôtres, qui enſeigne qu'il nous faut être fidéles à Dieu, même juſqu'à ſoufrir la mort la plus violente, quand il nous y apéle; <hi>Si cet Evangile eſt couvert, il eſt couvert à ceus qui periſſent, auſquels le Dieu de ce ſiécle a aveu<g ref="char:EOLhyphen"/>glé les entendemens,</hi> &amp; endurcy les coeurs.</p>
+               <p>Mes Freres, pour conclure en un mot, que les do<g ref="char:EOLhyphen"/>ctrines des nouveaus <hi>Gnoſtiques</hi> de ce tems, ne faſſent point d'impreſſion ſur vos eſprits; regardez ces gens come des gens qui ont un amour ſecret pour Baby<g ref="char:EOLhyphen"/>lone, des gens qui ont deſſein de ſe jetter dans ſon par<g ref="char:EOLhyphen"/>ty, ou de demeurer dehors, ſelon les tems, les menaces, la proſperité ou l'adverſité des affaires publiques, &amp; des leurs en particulier. Ecoutez cette voix celeſte qui vous crie encore come au généreus Polycarpe, <hi>Sois fi<g ref="char:EOLhyphen"/>déle juſqu'à la mort, &amp; je te doneray la Courône de vie.</hi> Et dans cette penſée ſoyez luy fidéles, s'il veut enfin é<g ref="char:EOLhyphen"/>prouver vôtre foy juſques à ce point. Ne craignez point la mort, la vie de l'home eſt courte &amp; pleine d'ennuis, aprehenderiez-vous la mort temporele, vous à qui la vie
+<pb n="26" facs="tcp:174917:18"/> éternele eſt promiſe? Cette vie, cette mort peuvent<g ref="char:EOLhyphen"/>elles être balancées contre la Courône de vie, de gloire, &amp; de felicité éternele, que Dieu promet à ceus qui luy auront été fidéles juſqu'à la mort? Non ſans doute, Chrétiens, je ſay que vous entombez d'acord pour peu que vous y faſſiez de reflexion; ſi vous agiſſez done de la ſorte, Dieu changera vôtre vie mortéle &amp; periſſable pour une heureuſe &amp; éternele immortalité toûjours glo<g ref="char:EOLhyphen"/>rieuſe &amp; triomphante. Amen.</p>
+            </div>
+            <trailer>FIN.</trailer>
+            <pb facs="tcp:174917:18"/>
+         </div>
+      </body>
+   </text>
+</TEI>
